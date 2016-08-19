@@ -12,8 +12,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        MD5Util.MD5("jackzpp");
-
+        MD5Util.MD5("woani");
     }
 }
